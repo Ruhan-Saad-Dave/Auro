@@ -1,9 +1,9 @@
-### **📌 AuroFinance: Gemini Financial Chatbot**  
-AURO is a Generative AI-powered financial assistant built to tackle the growing challenge of financial illiteracy in India. While millions of new investors are entering the markets, access to personalized, trustworthy financial guidance remains scarce. Traditional approaches simply cannot scale to support this massive influx.
+### **📌 NeoFinance: Gemini Financial Chatbot**  
+Neo is a Generative AI-powered financial assistant built to tackle the growing challenge of financial illiteracy in India. While millions of new investors are entering the markets, access to personalized, trustworthy financial guidance remains scarce. Traditional approaches simply cannot scale to support this massive influx.
 
 We aim to bridge this gap using the power of GenAI.
 
-AURO allows users to converse naturally about their financial goals, whether it's understanding stock market trends, evaluating investment options, or learning about loan structures. Auro powered by transformer-based deep learning models, AURO delivers data-driven, educational, and personalized financial guidance at scale—no human advisors needed.
+Neo allows users to converse naturally about their financial goals, whether it's understanding stock market trends, evaluating investment options, or learning about loan structures. Neo powered by transformer-based deep learning models, Neo delivers data-driven, educational, and personalized financial guidance at scale—no human advisors needed.
 
 Our vision is to revolutionize financial decision-making in India by making financial literacy accessible, actionable, and conversational for every investor.
 
@@ -27,8 +27,8 @@ Our vision is to revolutionize financial decision-making in India by making fina
 
 #### **1️⃣ Installation**  
 ```bash
-git clone https://github.com/Ruhan-Saad-Dave/Auro.git
-cd Auro
+git clone https://github.com/Ruhan-Saad-Dave/Neo.git
+cd Neo
 ```
 If you are using windows (CMD, not powershell):
 ```bash
